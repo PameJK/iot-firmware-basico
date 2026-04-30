@@ -1,4 +1,4 @@
-#include <Arduino.h>
+#include <esp32.h>
 
 const int ledPin = 22; // Pin donde está conectado el LED
 
