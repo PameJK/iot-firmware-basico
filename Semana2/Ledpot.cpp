@@ -1,5 +1,3 @@
-#include <Arduino.h>
-
 const int ledPin = 22;      // Pin donde está conectado el LED
 const int potPin = 34;      // Pin analógico para el potenciómetro (se recomiendan pines ADC1 como el 34, 35, 32 o 33)
 
